@@ -1,0 +1,17 @@
+.dropdown-select {
+  background-color: #2b2b2b !important;
+  color: Black !important;
+}
+
+.dropdown-select .Select-menu-outer {
+  background-color: #2b2b2b !important;
+}
+
+.dropdown-select .Select-menu-outer .Select-option {
+  color: #000000 !important;
+}
+
+.dropdown-select .Select-menu-outer .Select-option.is-selected {
+  background-color: #4b4b4b !important;
+  color: #000000 !important;
+}

@@ -1,0 +1,6 @@
+dash==2.9.3
+jupyter-dash==0.4.2
+plotly==5.15.0
+pandas==2.1.1
+dash-bootstrap-components==2.5.1
+pycountry==22.3.5
